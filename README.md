@@ -33,15 +33,15 @@ Username : Narutama123
 Password : 123
 
 Admin :
-Username : 
-Rafi123 
+Username : Rafi123 
 Password : 123
 
 OP:
-Username : Phinda 
-Password : 123
+Username : Phinda456 
+Password : 456
+
 Supplier :
-Username : Ahmad 123 
+Username : Ahmad123 
 Password : 123
 
 Bos :
