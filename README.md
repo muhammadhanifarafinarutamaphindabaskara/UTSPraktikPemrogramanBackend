@@ -26,4 +26,28 @@ Member Sebagai pembeli di toko online kami
 Supplier memiliki fungsi sebagai menyediakan dan mengirim stok produk terhadap toko.
 
 
+# Akses
 
+Member : 
+Username : Narutama123  
+Password : 123
+
+Admin :
+Username : 
+Rafi123 
+Password : 123
+
+OP:
+Username : Phinda 
+Password : 123
+Supplier :
+Username : Ahmad 123 
+Password : 123
+
+Bos :
+Username : hanif123
+Password : 123
+
+Bos :
+Username : baskara123
+Password : 123
